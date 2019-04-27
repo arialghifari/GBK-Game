@@ -1,2 +1,2 @@
 # gbk-game.github.io
-Game Gunting Batu Kertas, Dibuat dengan Javascript
+Game Gunting Batu Kertas yang dibuat dengan Javascript
