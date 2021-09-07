@@ -1,2 +1,2 @@
 # gbk-game.github.io
-Game Gunting Batu Kertas yang dibuat dengan Javascript
+Rock Paper Scissors game that made with javascript and <3
