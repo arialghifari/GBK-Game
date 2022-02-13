@@ -1,2 +1,3 @@
-# gbk-game.github.io
-Rock Paper Scissors game that made with javascript and <3
+#### Gunting Batu Kertas (Rock Paper Scissors) games that made with Javascript and <3
+
+Live: [Gunting Batu Kertas](https://gunting-batu-kertas.netlify.app/)
